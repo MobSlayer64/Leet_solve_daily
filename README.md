@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MobSlayer64/Leet_solve_daily/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/MobSlayer64/Leet_solve_daily/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
