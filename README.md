@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MobSlayer64/Leet_solve_daily/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/MobSlayer64/Leet_solve_daily/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/MobSlayer64/Leet_solve_daily/tree/master/0693-binary-number-with-alternating-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MobSlayer64/Leet_solve_daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
